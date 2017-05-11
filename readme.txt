@@ -1,1 +1,1 @@
-1. This is the inital commit
+3. This is the third commit
