@@ -1,1 +1,1 @@
-1. This is the inital commit
+2. This is the second commit
